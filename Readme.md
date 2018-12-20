@@ -14,3 +14,6 @@ You can also run the app without packaging it using -
 ```bash
 mvn spring-boot:run
 ```
+Kindly check this url in browser: http://localhost:8080/log
+Try multiple attempts to see if request id is changed with each attempt in logging files
+Date based logs are located under logs/ directory.
